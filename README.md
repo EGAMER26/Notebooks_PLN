@@ -1,20 +1,23 @@
-# 📚 Notebooks de Processamento de Linguagem Natural (PLN)
+# Notebooks de Processamento de Linguagem Natural (PLN)
 
-Bem-vindo ao repositório de Notebooks de Processamento de Linguagem Natural!  
-Aqui você vai encontrar uma coleção de notebooks usados nas aulas e projetos práticos de PLN, com foco no aprendizado e aplicação de diversas técnicas de análise textual.
+Este repositório contém materiais e exercícios práticos desenvolvidos durante as aulas de Processamento de Linguagem Natural (PLN). O objetivo é fornecer uma abordagem prática e aplicada para o estudo de técnicas e ferramentas utilizadas no processamento de textos em linguagem natural.
 
----
+## 📚 Conteúdo
 
-## 📂 Estrutura do Repositório
+O repositório está organizado em aulas e projetos, abordando os seguintes tópicos:
 
-- `Aula_02-Python_e_bibliotecas_PLN/`
-- `Aula_03-Processamento_de_texto/`
-- `Aula_04-Extração_de_caracteristicas/`
-- `Aula_05-Análise_Sintática/`
-- `Aula_06-IntepretaçãoSemântica_e_Gramáticas/`
-- `Aula_07-Descoberta_de_conhecimento/`
-- `Projeto_01-Análise_Quantitativa_de_Corpus/`
-- `Projeto_02-Análise_de_Estatística_Descritiva/`
-- `Projeto_03-Análise_de_relevância_de_termos/`
+- **Aula 02**: Python e bibliotecas para PLN
+- **Aula 03**: Processamento de texto
+- **Aula 04**: Extração de características
+- **Aula 05**: Análise sintática
+- **Aula 06**: Interpretação semântica e gramáticas
+- **Aula 07**: Descoberta de conhecimento
+- **Projeto 01**: Análise quantitativa de corpus
+- **Projeto 02**: Análise de estatística descritiva
+- **Projeto 03**: Análise de relevância de termos
+- **Aula 10**: Análise de sentimentos
+- **Aula 11**: Introdução ao machine learning
 
-Cada pasta conta com um README detalhado sobre o conteúdo dos notebooks. Bora explorar! 🚀
+## ⚙️ Como executar os notebooks
+
+Para executar os notebooks deste repositório, você pode utilizar o [Google Colab](https://colab.research.google.com/). Basta substituir a URL do GitHub por `githubtocolab.com`:
